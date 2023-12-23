@@ -19,7 +19,7 @@ class IPFinder extends JFrame implements ActionListener {
         l = new JLabel("Enter URL:");
         l.setBounds(50, 70, 150, 20);
         
-        createdByLabel = new JLabel("By: AKSHAT MISHRA");
+        createdByLabel = new JLabel("By: AKSHAT & ABHIJEET");
         createdByLabel.setHorizontalAlignment(SwingConstants.CENTER);
         createdByLabel.setForeground(new java.awt.Color(128, 128, 128));
         createdByLabel.setBounds(10, 10, 280, 20);
